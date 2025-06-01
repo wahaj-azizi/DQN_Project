@@ -1,0 +1,9 @@
+
+---
+
+### 🔹 `requirements.txt`
+```txt
+gymnasium
+numpy
+matplotlib
+seaborn
